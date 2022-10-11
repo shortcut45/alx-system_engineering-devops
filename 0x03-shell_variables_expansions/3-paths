@@ -1,0 +1,2 @@
+#!/bin/bash
+export PATH="ls -1|wc -l"
