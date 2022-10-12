@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$NUM %\.2f\n"
+ %\.2f\n
